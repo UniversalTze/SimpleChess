@@ -23,6 +23,7 @@ on the rules of chess.
 
 ## Example Gameplay
 A folder of .txt files with different gameplays has been provided.
+```
 rnbqkbnr 8
 pppppppp 7
 ........ 6
@@ -35,7 +36,9 @@ RNBQKBNR 1
 abcdefgh
 
 White's move: e2 e4
+```
 **Updated Board**
+```
 rnbqkbnr 8
 pppppppp 7
 ........ 6
@@ -46,5 +49,5 @@ PPPP.PPP 2
 RNBQKBNR 1
 
 abcdefgh
-
+```
 
